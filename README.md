@@ -1,5 +1,5 @@
 <h1> Convolutional Neural Network </h1>
-Classifying images of deer, dogs, cats, airplanes.. out of the <a href="https://www.cs.toronto.edu/~kriz/cifar.html>CIFAR-10</a> dataset, with a test accuracy of 76%.
+Classifying images of deer, dogs, cats, airplanes.. out of the <a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a> dataset, with a test accuracy of 76%.
 <br>
 
 <h2>Neural Network Architecture</h2>
